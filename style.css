@@ -1,5 +1,5 @@
 .jumbotron {
-				padding-top: 2rem;
+				padding-top: 5rem;
 				background-color: #e2edff;
 }
 
@@ -9,4 +9,8 @@
 
 footer, p {
 				text-decoration: none;
+}
+
+section { 
+	padding-top: 6rem;
 }
